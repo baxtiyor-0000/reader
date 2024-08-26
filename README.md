@@ -79,7 +79,3 @@ The project includes the following main features:
 - **Post Details**: Individual pages for each post with detailed information.
 - **Contact**: A contact form for users to send messages.
 - **Authors**: Information about site authors and their posts.
-
-## Contact
-
-For questions or suggestions about the project, please contact <email@example.com>.
